@@ -1,0 +1,27 @@
+{
+    "id": "8583CFA1",
+    "path": "~/Documents/GitHub/Getting-and-Cleaning-Data-Course-Project/run_Analysis.R",
+    "project_path": "run_Analysis.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1615898260239.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "64,32",
+        "scrollLine": "52"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1615898703,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1615898703715,
+    "read_only": false,
+    "read_only_alternatives": []
+}
